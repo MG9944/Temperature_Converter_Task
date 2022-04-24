@@ -2,18 +2,28 @@
 
 The following were used to create the application:
 
-Frontend
-*Reactjs
+1 TECHNOLOGIES:
 
-Backend:
-*Spring Boot
-*PostgreSQL
+* ReactJS (Frontend)
 
-To run the applications after downloading and unpacking you need to:
-*Run docker
-*In cmd go to the extracted directory
-*Enter the command: docker-compose build
-*Next: docker-compose up
+* Spring Boot (Backend)
+
+* PostgreSQL (Database)
+
+* Docker
+
+
+
+2 To run the applications after downloading and unpacking you need to:
+
+* Run docker
+
+* In cmd go to the extracted directory
+
+* Enter the command: docker-compose build
+
+* Next: docker-compose up
+
 
 The application runs on port 9000
 In order to enter it you have to type: localhost:9000
