@@ -54,7 +54,7 @@ function tryConvert(temperature, convert) {
 function Calculator() {
     //Declare a new state variable, which we'll call "scale"
   const [scale, setScale] = useState('c');
-    //Declare a new state variable, which we'll call "count"
+    //Declare a new state variable, which we'll call "temperature"
   const [temperature, setTemperature] = useState('');
 
   
